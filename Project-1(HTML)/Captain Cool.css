@@ -1,0 +1,29 @@
+ 
+ body{
+    background-color: rgb(247, 245, 242);
+ }.img1{
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.img2{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.table{
+    align-self: center;
+    margin-left: 400px;
+    margin-top: 70px;
+    border: 1px green solid;
+    width: 600px;
+    border-collapse: collapse;
+    align-content: center;
+      
+
+    
+    
+}
+.imgw1{
+    margin-top: 30px;
+    margin-left: 400px;
+}
